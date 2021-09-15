@@ -2,21 +2,12 @@
 
 "info": {
 "url_png_icon_64x64": "https://github.com/SkywalkerADA/SkywalkerADA/edit/main/R2D2.png",
-"url_png_logo": " ",
+"url_png_logo": "https://github.com/SkywalkerADA/SkywalkerADA/edit/main/R2D2_1.png ",
 "location": “Bogotá, Colombia”,
 
 "social": {
-"twitter_handle": “Skywalkeradapool”,
-"telegram_handle": "Skywalkeradapool",
 "instagram_handle": "Skywalkeradapool",
-"youtube_handle": "/channel/UC7dSd_9TB3Fj4gTU0kIc-mg",
 "github_handle": "Skywalkeradapool"
-},
-
-"company": {
-"name": “Nestech Analytics”,
-"city": “Bogotá”,
-"country": “Colombia”
 },
 
 "about": {
@@ -29,7 +20,5 @@
 "0": "74d1980ec597226f245be03b9a97e189e96a5ae8dac45f0c5dd28a17"
 },
 
-"telegram-admin-handle": {
-"0": "Skywalker"
 }
 }
