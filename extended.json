@@ -11,12 +11,6 @@
   
 },
 
-"about": {
-"server": "We’re currently utilizing VPS services to sustain a low-cost operation, a total of 4 servers hosted in Canada and San Francisco for better connectivity, each server having 4vCPU + 16 GB RAM + 250 GB SSD.",
-"company": "A Colombian startup exploring interactive media through smart contracts."
-
-},
-
 "my-pool-ids": {
 "0": "74d1980ec597226f245be03b9a97e189e96a5ae8dac45f0c5dd28a17"
 },
