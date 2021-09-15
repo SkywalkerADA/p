@@ -1,6 +1,7 @@
 {
 "name": "Skywalker",
-"description": "Skywalker ADA Pool",
 "ticker": "SKYW",
-"homepage": "https://skywalkeradapool.com"
+"description": "A Colombian startup building on Cardano.",
+"homepage": "https://skywalkeradapool.com",
+"extended": "https://github.com/SkywalkerADA/p/blob/main/extended.json"
 }
