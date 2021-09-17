@@ -1,7 +1,8 @@
-{
-"name": "Skywalker",
-"ticker": "SKYW",
-"description": "A Colombian startup building on Cardano.",
-"homepage": "https://skywalkeradapool.com",
-"extended": "https://github.com/SkywalkerADA/p/blob/main/extended.json"
+{ 
+  "name":"Skywalker",
+  "ticker":"SKYW",
+  "description":"Skywalker ADA Pool",
+  "homepage":"https://www.skywalkeradapool.com",
+  "nonce":"1631843993",
+  "extended":"https://github.com/SkywalkerADA/p/blob/main/extended.json" 
 }
