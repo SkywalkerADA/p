@@ -4,5 +4,5 @@
   "description":"Skywalker ADA Pool",
   "homepage":"https://www.skywalkeradapool.com",
   "nonce":"1631843993",
-  "extended":"https://github.com/SkywalkerADA/p/blob/main/extended.json" 
+  "extended":"https://raw.githubusercontent.com/SkywalkerADA/p/main/extended.json" 
 }
